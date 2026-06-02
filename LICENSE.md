@@ -1,4 +1,4 @@
-# 
+# Automatic JetBrains WebStorm themes for Mac OS | Open Source JetBrains WebStorm themes for PC Windows. Featuring replication-tools and code-navigation — optimized for maximum performance on every platform.
 
 
 
